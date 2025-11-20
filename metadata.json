@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MediMind AI - Differential Diagnosis",
+  "description": "An advanced AI-powered differential diagnosis generator for medical professionals. Features real-time voice consultation, deep reasoning chat, literature search, and text-to-speech reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
